@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AHTesters/static/css/main.7b82e57d.css",
+    "main.js": "/AHTesters/static/js/main.2869fb45.js",
+    "index.html": "/AHTesters/index.html",
+    "main.7b82e57d.css.map": "/AHTesters/static/css/main.7b82e57d.css.map",
+    "main.2869fb45.js.map": "/AHTesters/static/js/main.2869fb45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b82e57d.css",
+    "static/js/main.2869fb45.js"
+  ]
+}
